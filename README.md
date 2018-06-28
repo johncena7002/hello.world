@@ -1,2 +1,3 @@
 # hello.world
-beginner
+begin
+good weather
